@@ -1,0 +1,42 @@
+[
+  {
+    "_id": 0,
+    "article": "DRG69",
+    "description": "Drаgy — это GPS логгер + мобильное приложение для измерения динамики разгона автомобиля и времени прохождения популярных дистанций в 1/4 и 1/2 мили.",
+    "image": "https://1evel.ru/wa-data/public/shop/products/66/08/20866/images/20130/20130.400x0.jpg",
+    "manufacturer": "Dragy Performance",
+    "name": "Meter измерительный прибор ",
+    "price": "10500",
+    "stock": true
+  },
+  {
+    "_id": 1,
+    "article": "S-BM/T/2H",
+    "description": "Выхлопная система Evolution Line (титан) без насадок для BMW M5 / M5 COMPETITION (F90) 2020. Прибавка мощности: +11,2 л.с при 5700 об/мин. Прибавка момента: +21.3 Нм при 2300 об/мин. Легче OEM выхлопной системы на 9.4 кг.",
+    "image": "https://i.ebayimg.com/thumbs/images/g/MAQAAOSwT~lfkp5Y/s-l1600.jpg",
+    "manufacturer": "Acrapovich",
+    "name": "Выхлопная система Evolution Line для BMW F90 M5 (без насадок)",
+    "price": "539000",
+    "stock": true
+  },
+  {
+    "_id": 2,
+    "article": "TP-CT/47/RS",
+    "description": "Насадки выхлопной системы (Carbon Matte) BMW F90 M5 (для системы S-BM/T/2H)",
+    "image": "https://ic.carid.com/akrapovic/items/tp-ct-47-rs_0.jpg",
+    "manufacturer": "Acrapovich",
+    "name": "Насадки выхлопной системы (Carbon Matte) BMW F90 M5 ",
+    "price": "144900",
+    "stock": true
+  },
+  {
+    "_id": 3,
+    "article": "DC-8160",
+    "description": "Производительность 150 л/мин",
+    "image": "https://1evel.ru/wa-data/public/shop/products/91/14/21491/images/17860/17860.1920.jpg",
+    "manufacturer": "Davies Craig",
+    "name": "Электро-помпа системы охлаждения 150 л/мин универсальная, 12V",
+    "price": "20200",
+    "stock": true
+  }
+]

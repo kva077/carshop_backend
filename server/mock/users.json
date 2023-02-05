@@ -1,0 +1,28 @@
+[
+  {
+    "2WQYolAVxTftvZlt1LRx10t7n3r1": {
+      "_id": "2WQYolAVxTftvZlt1LRx10t7n3r1",
+      "email": "vlad19441@rambler.ru",
+      "image": "https://avatars.dicebear.com/api/avataaars/n653a.svg",
+      "licence": true,
+      "name": "Владислав",
+      "sex": "male"
+    },
+    "3MHrtiIHCkZWbo7FjH4Fvm1Fk622": {
+      "_id": "3MHrtiIHCkZWbo7FjH4Fvm1Fk622",
+      "email": "vlad228stels@gmail.com",
+      "image": "https://avatars.dicebear.com/api/avataaars/5q94e.svg",
+      "licence": true,
+      "name": "Кепарис",
+      "sex": "male"
+    },
+    "SxbK2t6nqwdr423MHmKYAqqsGhr2": {
+      "_id": "SxbK2t6nqwdr423MHmKYAqqsGhr2",
+      "email": "vlad@mail.ru",
+      "image": "https://avatars.dicebear.com/api/avataaars/wmx0s.svg",
+      "licence": true,
+      "name": "Влад",
+      "sex": "male"
+    }
+  }
+]
