@@ -3,7 +3,7 @@ const router = express.Router({ mergeParams: true });
 
 // /api/auth
 
-// router.use("/auth", require("./auth.routes"));
+router.use("/auth", require("./auth.routes"));
 
 router.use("/parts", require("./part.routes"));
 
